@@ -4,21 +4,25 @@ A free/open-source physical design system for managing and organizing your Steam
 
 ![36 images for SD cards](.github/img/sd-card-preview.png)
 
-## How to use
+## How to Use
 
-### 1. Print Sticker Labels
+### 1. Print (Or Buy) Sticker Labels
 
-Each image fits within a 0.75" x 1" area, the typical size of a full-size SD card. You can buy label paper and print at home (typically requires a color laser printer), or print using an online service.
-
-**Buy SD Card Adapter:** Coming soon, purchase pre-made individual SD card adapters with your preferred sticker
+- **Dimensions**: Each label is designed to fit within a 0.75" x 1" area, the typical size for a full-size SD card front label.
+- **Printing at Home**: Use label paper and a color laser printer for best results. OL28 blank label paper is recommended
+- **Online Printing Services**: Use an online service to have your own OL28 sheets printed if you do not have a printer.
+- **Buy Pre-Made Cards**: If you are only interested in getting a few cards, I will soon have some available for sale on my Etsy, and it will be cheaper than printing full sheets.
 
 ### 2. Label SD Card Adapters
 
-Either cut or peel your stickers and affix them to the _full-size_ SD card adapters.
+- Carefully cut or peel your stickers.
+- Affix them to your _full-size_ SD card adapters.
 
 ### 3. Mark MicroSD Card
 
-Each SD Card design has an ID number mark in the bottom left corner. Use a fine-tip permanent marker to label the microSD with the corresponding number to ensure the correct card adapter is kept with the correct card.
+- Each design includes an ID number in the bottom left corner.
+- Use a fine-tip permanent marker to label the microSD card with the corresponding number.
+- **Optional**: It is recommended to mark the background a white paint marker first to make the label easier to read.
 
 ![sd card label diagram](.github/img/microsd-label.png)
 
