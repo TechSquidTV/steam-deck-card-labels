@@ -2,6 +2,10 @@
 
 A free/open-source physical design system for managing and organizing your Steam game library and other media on SD cards. Give your microSD card adapters game box art similar to other game cartridges.
 
+Read: [Blog Post](https://techsquidtv.com/blog/steam-deck-sd-card-labels/)
+
+Buy: [On Etsy](https://www.etsy.com/listing/1671796721/steam-deck-microsd-card-game-boxes) (or make your own below)
+
 ![36 images for SD cards](.github/img/sd-card-preview.png)
 
 ## How to Use
@@ -11,7 +15,7 @@ A free/open-source physical design system for managing and organizing your Steam
 - **Dimensions**: Each label is designed to fit within a 0.75" x 1" area, the typical size for a full-size SD card front label.
 - **Printing at Home**: Use label paper and a color laser printer for best results. OL28 blank label paper is recommended
 - **Online Printing Services**: Use an online service to have your own OL28 sheets printed if you do not have a printer.
-- **Buy Pre-Made Cards**: If you are only interested in getting a few cards, I will soon have some available for sale on my Etsy, and it will be cheaper than printing full sheets.
+- **Buy Pre-Made Cards**: Want to simply buy pre-made cards? [Check out the Etsy store](https://www.etsy.com/listing/1671796721/steam-deck-microsd-card-game-boxes).
 
 ### 2. Label SD Card Adapters
 
